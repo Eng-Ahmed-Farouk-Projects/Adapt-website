@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 64" role="img" aria-label="Adapt Community logo placeholder">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00d5ff"/><stop offset="1" stop-color="#315cff"/></linearGradient></defs>
+  <path d="M32 5 59 54H46L32 28 18 54H5L32 5Z" fill="url(#g)"/><path d="M23 43h18" stroke="#f5f7ff" stroke-width="4" stroke-linecap="round"/>
+  <text x="76" y="34" font-family="Arial,sans-serif" font-size="23" font-weight="800" letter-spacing="3" fill="#f5f7ff">ADAPT</text>
+  <text x="77" y="51" font-family="Arial,sans-serif" font-size="8" font-weight="600" letter-spacing="3.2" fill="#8f9ab3">COMMUNITY</text>
+</svg>

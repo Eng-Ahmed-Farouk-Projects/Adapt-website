@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#315cff"/><stop offset="1" stop-color="#00d5ff"/></linearGradient><radialGradient id="r"><stop stop-color="#315cff" stop-opacity=".35"/><stop offset="1" stop-color="#05060a" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="630" fill="#05060a"/><circle cx="890" cy="260" r="390" fill="url(#r)"/>
+<g opacity=".18" stroke="#7e9fff"><path d="M0 90H1200M0 180H1200M0 270H1200M0 360H1200M0 450H1200M0 540H1200"/><path d="M100 0V630M200 0V630M300 0V630M400 0V630M500 0V630M600 0V630M700 0V630M800 0V630M900 0V630M1000 0V630M1100 0V630"/></g>
+<path d="M92 410 175 246l83 164h-39l-44-88-44 88Z" fill="url(#g)"/><path d="M144 373h62" stroke="#f5f7ff" stroke-width="11" stroke-linecap="round"/>
+<text x="310" y="330" fill="#f5f7ff" font-family="Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="9">ADAPT</text><text x="316" y="386" fill="#8e9bb6" font-family="Arial,sans-serif" font-size="22" letter-spacing="10">COMMUNITY</text>
+<text x="92" y="505" fill="#dce6ff" font-family="Arial,sans-serif" font-size="34" font-weight="600">Empowering Teenagers. Building Capabilities.</text><text x="92" y="550" fill="#00d5ff" font-family="Arial,sans-serif" font-size="26">Creating Opportunities.</text>
+</svg>
